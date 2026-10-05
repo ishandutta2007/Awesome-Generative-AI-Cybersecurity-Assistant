@@ -1,9 +1,5 @@
-*.bak
-*.bk
-*.env
-*.json
-.cache
-__pycache__/
-contributors.txt
-node_modules
-temp_repo_clone
+*
+!README.md
+!assets/
+!assets/**
+!.gitignore
