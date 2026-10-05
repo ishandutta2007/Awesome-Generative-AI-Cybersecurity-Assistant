@@ -4,7 +4,7 @@
 
 # Awesome-Generative-AI-Cybersecurity-Assistant
 
-# Top Generative AI Cybersecurity Assistant Ecosystem
+## Top Generative AI Cybersecurity Assistant Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on AI-Powered SOC Assistance, Threat Triage, Investigation Copilots, Natural-Language Query & Agentic Security Response*
 **Last updated: October 2026**
